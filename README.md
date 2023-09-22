@@ -18,3 +18,5 @@
 
 #### Domain
 - 내도메인.한국
+
+### iOS MVVVM Model 적용하여 개발
