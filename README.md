@@ -1,4 +1,5 @@
-# Toy-Project-Todo
+# TODO App
+### for toy project
 
 ### 사용 기술 스택
 #### iOS
