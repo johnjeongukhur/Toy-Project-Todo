@@ -3,7 +3,7 @@
 ### Overview
 * Todo App 프로젝트는 UIKit Codebase에 기반한 RxSwift와 MVVM 디자인 패턴을 활용하여 간단한 할 일 목록을 관리하는 앱 입니다. 
 
-### 사용 기술 스택(iOS), 그 외 아래 기술
+### 사용 기술 스택(iOS), 그 외 기술 하단에 기재
 * Swift, UIKit(Codebase), RxSwift, RxCocoa, Alamofire
   
 ### Team
